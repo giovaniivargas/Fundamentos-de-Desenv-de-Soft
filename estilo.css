@@ -1,0 +1,54 @@
+body{
+    background-color:darkkhaki;
+}
+
+h1{
+    color: teal;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+ul li {
+    margin-bottom: 7px; 
+}
+img {
+    width: 300px;            
+    border-radius: 12px;     
+}
+  table {
+    width: 30%;                    
+    border-collapse: collapse;      
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 3px solid #4a148c;      
+  }
+  
+  th {
+    background-color: #148c78;      
+    color: white;                   
+    padding: 10px;
+    text-align: center;  
+                 
+  }
+  
+  td {
+    padding: 10px;
+    text-align: center;               
+  }
+  
+  tr:nth-child(even) {
+    background-color: #148c5a;      
+  }
+  
+  tr:hover {
+    background-color: #e0f7fa;     
+  }
+  a:hover{
+    color: brown;
+  }
+  
+  
